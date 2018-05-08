@@ -1,0 +1,39 @@
+<svg width="200" height="200" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>G+</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(456 -193)">
+<rect x="-456" y="193" width="200" height="200" fill="#E5E5E5"/>
+<g id="Sheet">
+<g id="bg">
+<use xlink:href="#path0_fill" transform="translate(-494 -313)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Vectors">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(-476 -287)" fill="#E2E2E2"/>
+</g>
+<g id="Socials">
+<g id="G+">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(-456 193)" fill="#DA4F3E"/>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(-324 274.5)" fill="#FFFFFF"/>
+</g>
+<g id="Vector 2">
+<use xlink:href="#path4_fill" transform="translate(-424.116 249.5)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 1000 0L 1000 1000L 0 1000L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 522 0L 522 779L 0 779L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 200 0L 200 200L 0 200L 0 0Z"/>
+<path id="path3_fill" d="M 12 25L 0 25L 0 12.5L 12 12.5L 12 0L 24.5 0L 24.5 12.5L 37 12.5L 37 25L 24.5 25L 24.5 37L 12 37L 12 25Z"/>
+<path id="path4_fill" d="M 68.6162 52L 44.1162 52L 44.1162 37.5L 84.6162 37.5L 84.6162 52C 84.6162 65 78.7287 72.5003 68.6162 80C 60.2503 85.4082 54.6162 87.5 44.1162 87.5C 16.1162 87.5 2.11621 67 0.616212 52C -0.00552624 45.7826 -0.38379 42 0.616212 36C 1.60261 30.0816 9.11621 14.5 17.6162 8.5C 22.8821 4.78287 33.1162 0 44.1162 0C 56.6162 -4.29295e-06 63.4251 3.92645 72.6162 11L 61.6162 22C 54.6336 17.5451 50.6162 16 44.1162 16C 35.1162 16 21.3204 22.5749 17.6162 35C 15.8311 40.988 15.7993 47.0216 17.6162 53C 21.2615 64.9947 31.6162 71.5 43.1162 71.5C 57.1162 71.5 65.216 64.1261 68.6162 52Z"/>
+</defs>
+</svg>

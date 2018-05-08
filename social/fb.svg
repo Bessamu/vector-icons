@@ -1,0 +1,33 @@
+<svg width="200" height="200" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Fb</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(226 267)">
+<rect x="-226" y="-267" width="200" height="200" fill="#E5E5E5"/>
+<g id="Sheet">
+<g id="bg">
+<use xlink:href="#path0_fill" transform="translate(-494 -313)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Vectors">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(-476 -287)" fill="#E2E2E2"/>
+</g>
+<g id="Socials">
+<g id="Fb">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="translate(-226 -267)" fill="#3B5998"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(-144.5 -232)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 1000 0L 1000 1000L 0 1000L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 522 0L 522 779L 0 779L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 200 0L 200 200L 0 200L 0 0Z"/>
+<path id="path3_fill" d="M 26 89.5L 26 165L 55.5 165L 55.5 89.5L 81 89.5L 85.5 60L 55.5 60L 55.5 38.5C 55.5 31.7 59 27 65.5 27L 86.5 27L 86.5 0L 57.5 0C 47.5 0 39.7292 4.74084 33.5 13C 28.1673 20.0705 26 30.1203 26 37.5L 26 60L 0 60L 0 89.5L 26 89.5Z"/>
+</defs>
+</svg>

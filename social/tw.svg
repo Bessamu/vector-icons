@@ -1,0 +1,33 @@
+<svg width="200" height="200" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Tw</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(226 37)">
+<rect x="-226" y="-37" width="200" height="200" fill="#E5E5E5"/>
+<g id="Sheet">
+<g id="bg">
+<use xlink:href="#path0_fill" transform="translate(-494 -313)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Vectors">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(-476 -287)" fill="#E2E2E2"/>
+</g>
+<g id="Socials">
+<g id="Tw">
+<g id="Rectangle">
+<use xlink:href="#path2_fill" transform="translate(-226 -37)" fill="#00ACED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(-210 -5.00717)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 1000 0L 1000 1000L 0 1000L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 522 0L 522 779L 0 779L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 200 0L 200 200L 0 200L 0 0Z"/>
+<path id="path3_fill" d="M 136 91.5072C 149.2 73.9072 151.5 45.8405 151 34.0072C 158.627 28.1619 162.44 24.4211 168 16.5072C 160.244 19.1652 155.892 20.3984 148.5 21.5072C 157.187 15.94 160.332 11.6512 164 2.50717C 155.33 7.26354 150.508 9.22569 142 11.0072C 136 5.50717 125.898 -0.231018 118 0.00716968C 89.3895 0.87 79.243 20.7752 83 42.5072C 42.0994 37.2587 29.2176 27.3426 11.5 6.00718C 3.87499 25.5601 3.1971 36.0951 22 52.5072C 15.7109 52.5047 12.3061 51.6015 6.5 48.0072C 7.97433 68.923 14.6523 75.9492 34 82.5072C 28.0704 84.4373 24.6754 84.5289 18.5 83.0072C 26.3529 98.8747 33.1767 104.522 51 107.007C 25.5 125.507 0 121.507 0 121.507C 22.5 139.007 61 138.507 82.5 133.007C 104 127.507 119.5 113.507 136 91.5072Z"/>
+</defs>
+</svg>
